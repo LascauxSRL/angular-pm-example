@@ -1,0 +1,5 @@
+li.element {
+    cursor: pointer;
+    padding: 6px;
+    text-decoration: underline;
+}
